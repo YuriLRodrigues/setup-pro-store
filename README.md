@@ -1,45 +1,25 @@
-# Setup Pro Store project 💻
+# Setup Pro Store Project 💻
 
-![Design sem nome (11)](https://github.com/TiagoCoder2022/fsw-store/assets/119512258/1b047e5c-311e-4344-ae70-9520f6e8b529)
+Este é o e-commerce de periféricos de computador desenvolvido durante a Full Stack Week.
 
+## Funcionalidades 📦
 
-This is the computer peripherals e-commerce developed during Full Stack Week.
+- **Login com Google**: Permitimos que os usuários façam login usando sua conta do Google para uma experiência de autenticação simplificada.
 
-## Features 📦
+- **Navegação por Categorias**: Os usuários podem explorar produtos por categorias, facilitando a busca e a compra.
 
-- **Login with Google**: We allow users to sign in using their Google account for a simplified authentication experience.
+- **Descontos em Produtos**: Alguns produtos podem ter descontos especiais, permitindo que os usuários economizem em suas compras.
 
-- **Category Navigation**: Users can explore products by categories, making searching and purchasing easier.
+- **Gerenciamento do Carrinho de Compras**: Os usuários podem adicionar produtos ao carrinho, remover itens e modificar a quantidade de um produto conforme necessário.
 
-- **Product Discounts**: Some products may have special discounts, allowing users to save on their purchases.
+- **Pagamento de Pedidos com Stripe API**: Oferecemos uma experiência de pagamento online segura com a integração da API do Stripe, incluindo o uso de webhooks para processar eventos relacionados ao pagamento. Os usuários podem finalizar seus pedidos de forma fácil e segura.
 
-- **Shopping Cart Management**: Users can add products to their shopping cart, remove products and also modify the quantity of a product in the shopping cart as needed.
+## Tecnologias Utilizadas 🚀
 
-- **Order Payment with Stripe API**: We provide a secure online payment experience with Stripe API integration, including the use of webhooks to process payment-related events. Users can complete their orders easily and securely.
-
-## Technologies Used 🚀
-
-- **React**: A popular JavaScript library for building interactive user interfaces.
-
-- **Next.js 13**: A React framework that offers server-side rendering (SSR), static generation (SSG), among many other features.
-
-- **Next Auth**: Library for authenticating users with OAuth.
-
-- **Postgres**: A relational database management system.
-
-- **Prisma**: An ORM (Object-Relational Mapping) for Node.js and TypeScript.
-
-- **shadcn/ui**: A library of reusable and styleable UI components.
-
-- **Tailwind CSS**: A CSS framework that offers several pre-styled classes for use.
-
-- **Stripe API**: A popular payment API for securely processing online payments.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
----
-
-<p align="center">Done with 💙 by Tiago Alves</p>
+- **React**: Uma biblioteca popular de JavaScript para a construção de interfaces de usuário interativas.
+- **Next.js 13**: Um framework React que oferece renderização no servidor (SSR), geração estática (SSG), entre muitos outros recursos.
+- **Next Auth**: Biblioteca para autenticação de usuários via OAuth.
+- **Postgres**: Um sistema de gerenciamento de banco de dados relacional.
+- **Prisma**: Um ORM (Mapeamento Objeto-Relacional) para Node.js e TypeScript.
+- **shadcn/ui**: Uma biblioteca de componentes de UI reutilizáveis e estilizáveis.
+- **Tailwind CSS**: Um framework CSS que oferece diversas classes pré-estilizadas para uso.
