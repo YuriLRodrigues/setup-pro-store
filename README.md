@@ -1,4 +1,4 @@
-# Setup Pro Store Project 💻
+# Setup Pro Store 💻
 
 Este é o e-commerce de periféricos de computador desenvolvido durante a Full Stack Week.
 
